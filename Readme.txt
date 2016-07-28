@@ -11,7 +11,6 @@ The file "UrduQWERTYkeyboardMac.pdf" is a printable one-page
 keyboard map for reference.
 
 
-
 *** INSTALLAION ***
 
 1. Before Installation: If either one of the folders 
@@ -53,6 +52,13 @@ its left so it shows a check sign.
 
 5. Exit the menus.
  
+
+*** EDITING PICTURE OF KEYMAP IN PDF ***
+
+The .tex source file for generating UrduQWERTYkeyboardMac.pdf is
+UrduQWERTYkeyboardMac.tex. It should processed by the XeLaTeX
+engine.
+
 
 *** MORE INFO ***
 
