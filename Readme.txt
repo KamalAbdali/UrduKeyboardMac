@@ -10,6 +10,12 @@ mathematical and technical symbols.
 The file "UrduQWERTYkeyboardMac.pdf" is a printable one-page
 keyboard map for reference.
 
+ACKNOWLEDGEMENT: Urdu-QWERTY was designed with the aid of 
+Ukelele (https://scripts.sil.org/Ukelele), a keyboard layout 
+editor for MacOS.  I thank John Brownie, the author of Ukelele, 
+for developing this melodious software and for making it 
+available under a freeware license. 
+
 
 *** INSTALLAION ***
 
